@@ -20,6 +20,8 @@ public class Main {
        list[1]=s2;
        list[2]=s3;
        for(hgfswgfsh)
+           //pull
+           //pull
     }
     
 }
