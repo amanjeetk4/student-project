@@ -20,6 +20,7 @@ public class Main {
        list[1]=s2;
        list[2]=s3;
        for(int i=0;i<5;i++)
+           //pull//pull
            //pull operation
     }
     
