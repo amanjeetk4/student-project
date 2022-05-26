@@ -19,7 +19,8 @@ public class Main {
        list[0]=s1;
        list[1]=s2;
        list[2]=s3;
-       for(hgfswgfsh)
+       for(int i=0;i<5;i++)
+           //pull operation
     }
     
 }
